@@ -1,5 +1,7 @@
 <?php
 
+
+
 $to = "imstellunger@yandex.ru";
 $subject = "Письмо с Bar-party.ru";
 $message = "Привет!\n\n";
