@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.html|catalog\.html|mail\.php|assets)
+RewriteRule ^(.*)$ /index.html [L]
+
